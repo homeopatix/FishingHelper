@@ -15,24 +15,24 @@ function CreateLocalizationInfo()
 	Strings.PluginEscDesable = "Escape-Taste deaktiviert";
 	Strings.PluginAltEnable = "Alt-Taste aktiviert";
 	Strings.PluginAltDesable = "Alt-Taste deaktiviert";
-	Strings.PluginToggleOn = "Fenster aktivieren";
-	Strings.PluginToggleOff = "Fenster deaktivieren";
-	Strings.PluginEscIconOn = "Zeige das Symbol an";
-	Strings.PluginEscIconOff = "Verstecke das Symbol";
-	Strings.PluginWindowShow = "Schaufenster";
-	Strings.PluginWindowHide = "Verstecke das Fenster";
-	Strings.PluginReleaseAlias = "/Fish toggle";
+	Strings.PluginToggleOn = "Fenster wird angezeigt";
+	Strings.PluginToggleOff = "Fenster wird ausgeblendet";
+	Strings.PluginEscIconOn = "Symbol wird angezeigt";
+	Strings.PluginEscIconOff = "Symbol wird ausgeblendet";
+	Strings.PluginWindowShow = "Fenster wird angezeigt";
+	Strings.PluginWindowHide = "Fenster wird ausgeblendet";
+	Strings.PluginReleaseAlias = "/fish toggle";
 	------------------------------------------------------------------------------------------
 	-- Main Window --
 	------------------------------------------------------------------------------------------
 	Strings.CanneApeche = "Angelrute";
 	Strings.MasterNPC = "Meister-NPC";
-	Strings.Quests = "Angel-Quests";
+	Strings.Quests = "Angel-Aufgaben";
 	Strings.Fishes = "Fische";
 	Strings.NormalFishes = "Normale Fische";
 	Strings.RareFishes = "Seltene Fische";
-	Strings.WallFishes = "Wandfische";
-	Strings.GarbageFishes = "M\195\188llfische";
+	Strings.WallFishes = "Troph\195\164en";
+	Strings.GarbageFishes = "M\195\188ll";
 	------------------------------------------------------------------------------------------
 	-- Fishing proeficiency window --
 	------------------------------------------------------------------------------------------
@@ -43,31 +43,31 @@ function CreateLocalizationInfo()
 	-- help --
 	------------------------------------------------------------------------------------------
 	Strings.PluginHelp1 = "\n\nListe der Befehle:\n";
-	Strings.PluginHelp2 = "/WTF help - Hilfefenster anzeigen.\n";
-	Strings.PluginHelp3 = "/WTF show - Fenster anzeigen.\n";
-	Strings.PluginHelp4 = "/WTF hide - Fenster verbergen.\n";
-	Strings.PluginHelp5 = "/WTF esc - Escape-Taste aktivieren oder deaktivieren.\n";
-	Strings.PluginHelp6 = "/WTF alt - Alt-Taste aktivieren oder deaktivieren, um das Symbol zu verschieben.\n";
-	Strings.PluginHelp7 = "/WTF toggle - Fenster aktivieren- und deaktivieren.\n";
-	Strings.PluginHelp8 = "/WTF options - Zeigen Sie das Optionsfenster an\n";
-	Strings.PluginHelp9 = "/WTF icon - Symbol ein-oder ausblenden.\n\n";
-	Strings.PluginHelp10 = "Klickt auf den Namen einer Region, um die Karte der Region zu \195\182ffnen\n";
-	Strings.PluginHelp11 = "Die Zahl neben einem Fisch gibt das Mindestniveau an, das beim Fischen erforderlich ist, um ihn zu fangen\n";
-	Strings.PluginHelp12 = "Wenn Sie auf den Zonennamen klicken, wird die Zonenkarte angezeigt\n";
-	Strings.PluginHelp13 = "Wenn Sie auf den Ortsnamen klicken, wird eine genaue Karte des Standorts des Charakters angezeigt\n";
+	Strings.PluginHelp2 = "/wtf help - Zeigt das Hilfefenster an.\n";
+	Strings.PluginHelp3 = "/wtf show - Zeigt das Fenster an.\n";
+	Strings.PluginHelp4 = "/wtf hide - Blendet das Fenster aus.\n";
+	Strings.PluginHelp5 = "/wtf esc - Aktiviert/Deaktiviert die Escape-Taste, um das Fenster zu schlie\195\159en.\n";
+	Strings.PluginHelp6 = "/wtf alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
+	Strings.PluginHelp7 = "/wtf toggle - Fenster anzeigen/ausblenden.\n";
+	Strings.PluginHelp8 = "/wtf options - Zeigt die Optionen an.\n";
+	Strings.PluginHelp9 = "/wtf icon - Symbol anzeigen/ausblenden.\n\n";
+	Strings.PluginHelp10 = "Klicke auf den Namen einer Region, um die Karte der Region zu \195\182ffnen.\n\n";
+	Strings.PluginHelp11 = "Die Zahl vor dem Fisch gibt das Mindestlevel an, das beim Angeln erforderlich ist, um ihn zu fangen.\n\n";
+	Strings.PluginHelp12 = "Wenn du auf die Zone klickst, wird die Karte der Zone angezeigt.\n\n";
+	Strings.PluginHelp13 = "Wenn du auf den Ortsnamen klickst, wird eine genauere Karte des Standortes des Charakters angezeigt.\n";
 	Strings.PluginCloseButton = "Fenster schlie\195\159en";
 	------------------------------------------------------------------------------------------
 	-- options window --
 	------------------------------------------------------------------------------------------
 	Strings.PluginOptionsText = "FishingHelper Optionen";
-	Strings.PluginOption1 = "Zeigen Sie den Hintergrund in Gr\195\188n f\195\188r den Fisch an, dessen Angellevel Sie haben";
-	Strings.PluginOption2 = " Hintergrund anzeigen";
+	Strings.PluginOption1 = "Gr\195\188ne Hintergrundfarbe zeigt an, dass die Kenntnisse ausreichen, den Fisch zu fangen";
+	Strings.PluginOption2 = " Hintergrund einf\195\164rben";
 	Strings.PluginOption3 = " Tagesfanglimit anzeigen";
 	Strings.PluginOption4 = " Tageslimit anzeigen";
-	Strings.PluginOption5 = " Zeigen Sie das Fisherman-Plugin-Symbol an";
+	Strings.PluginOption5 = " Zeigt das Fisherman-Plugin-Symbol an";
 	Strings.PluginOption6 = " Symbol anzeigen";
-	Strings.PluginOptionValidate = "\195\132nderungen \195\188berpr\195\188fen";
-	Strings.PluginOptionShowWindow = "Optionsfenster anzeigen";
+	Strings.PluginOptionValidate = "Speichern";
+	Strings.PluginOptionShowWindow = "Optionen werden angezeigt";
 	------------------------------------------------------------------------------------------
 	-- zones --
 	------------------------------------------------------------------------------------------
@@ -90,11 +90,11 @@ function CreateLocalizationInfo()
 		-- new maps
 		zones123 = {mapHex =  0x41008134, texte = "Bree", lvl = "1 - 15"},
 		zones124 = {mapHex =  0x4100812D, texte = "Bruchtal", lvl = "35 - 40"},
-		zones125 = {mapHex =  0x4100812B, texte = "Thorins halle", lvl = "1 - 15"},
+		zones125 = {mapHex =  0x4100812B, texte = "Thorins Halle", lvl = "1 - 15"},
 		zones126 = {mapHex =  0x41132e57, texte = "Schneegrenze", lvl = "75 - 85"}, --  	Snowbourn
 		zones127 = {mapHex =  0x411379ff, texte = "Forlach", lvl = "85"}, -- forloi -- landes farouche
 		zones128 = {mapHex =  0x41116EFE, texte = "Galtrev", lvl = "65 - 75"}, -- galtrev
-		zones129 = {mapHex =  0x410e871b, texte = "Einundzwanzigsten Halle", lvl = "51 - 60"}, -- 21 eme salle
+		zones129 = {mapHex =  0x410e871b, texte = "Einundzwanzigste Halle", lvl = "51 - 60"}, -- 21 eme salle
 		zones130 = {mapHex =  0x4113C31E, texte = "Edoras", lvl = "85 - 95"}, -- Edoras
 		zones131 = {mapHex =  0x41154e05, texte = "Dol Amroth", lvl = "98 - 100"} --  	Dol Amroth --haven of belfalas
         };

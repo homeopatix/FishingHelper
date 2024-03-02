@@ -370,7 +370,7 @@
 						"260", "535",
 						"630", "380", -- fondcombe
 						"675", "160",
-						"460", "365", -- galtrev
+						"420", "310", -- galtrev
 						"720", "500",
 						"460", "510", -- forloi
 						"285", "435",
@@ -382,7 +382,7 @@
 						"260", "535",
 						"850", "330",
 						"490", "280",
-						"450", "350",
+						"445", "340",
 						"435", "460",
 						"630", "460",
 						"290", "440",
@@ -397,21 +397,21 @@
 						"0x410DD1B3",
 						"0x410DD1B3"};
 	DatasFishingRodName = {"Grundlegende Angelrute",
-						"Eibe Angelrute +1 Angeln",
-						"Gut verarbeitete Eibenrute +3 Angeln",
-						"Lebethron Angelrute +4 Angeln",
-						"Gut verarbeitete Lebethron-Angelrute +5 Angeln",
-						"Angelrute der Rohirric +8 Angeln",
-						"Exquisite Elfen-Angelrute +10 Angeln"};
-	DatasFishingRodLocation = {"Hobbymeister",
-							"Holzarbeiter",
-							"Holzarbeiter",
-							"Holzarbeiter",
-							"Holzarbeiter",
-							"Eastemnet Diverses Quartiermeister",
-							"Quartiermeister (Belohnungen der Zwerge des Erebor) (Erebor)\n" ..
-							"Quartiermeister (Belohnungen der Elfen von Felegoth) (Felegoth)\n" ..
-							"Quartiermeister (Men of Dale Belohnungen) (Dale)"};
+						"Angelrute aus Eibenholz +1 Angeln",
+						"Von kundiger Hand gefertigte\n Angelrute aus Eibenholz +3 Angeln",
+						"Lebethron-Angelrute +4 Angeln",
+						"Von kundiger Hand gefertigte\n Lebethron-Angelrute +5 Angeln",
+						"Rohirrische Angelrute +8 Angeln",
+						"Exquisite elbische Angelrute +10 Angeln"};
+	DatasFishingRodLocation = {"Hobby-Meister",
+							"Drechsler",
+							"Drechsler",
+							"Drechsler",
+							"Drechsler",
+							"Quartiermeister für Ost-Emnet-Sammlung",
+							"Zwerge vom Erebor - Belohnungen\n" ..
+							"Elben von Felegoth - Belohnungen\n" ..
+							"Menschen von Thal - Belohnungen"};
 
 	DatasFishingQuests = {"[5] Ein Fisch, zwei Fische",
 						"[5] Angellektion",

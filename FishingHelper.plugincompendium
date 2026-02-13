@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1160</Id>
+  <Name>FishingHelper</Name>
+  <Version>1.16</Version>
+  <Author>Homeopatix</Author>
+ <Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FishingHelper est un petit plugin pour avoir une vision rapide des quetes, maitre de hobby
+zone de peche et des differents poissons disponible en jeu
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FishingHelper is a small plugin to have a quick overview of quests, hobby master
+fishing area and different fish available in game
+
+DESCRIPTION (Deutsch)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FishingHelper ist ein kleines Plugin um einen schnellen Uberblick uber Quests zu haben, Hobbymeister
+Angelgebiet und verschiedene Fische im Spiel verfugbar
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/WTF show -- montre la fenetre
+/WTF hide -- cache la fenetre
+/WTF esc - active ou desactive la touche escape
+/WTF toggle - Basculer la fenetre
+/WTF icon - Affiche ou masque l'icone
+/WTF options - Affiche la fenetre d'options
+
+(English)
+Shortcut available
+/WTF show - show the window
+/WTF hide - hide the window
+/WTF esc - activate or deactivate the escape key
+/WTF toggle - Toggle window
+/WTF icon - Display or hide the icon
+/WTF options - Display the option window
+
+(Deutsch)
+Verknupfung verfugbar
+/WTF show - zeige das Fenster
+/WTF Hide - Verstecke das Fenster
+/WTF esc - Aktivieren oder deaktivieren Sie die Escape-Taste
+/WTF toggle - Fenster umschalten
+/WTF icon - Symbol ein-oder ausblenden
+/WTF options - Zeigen Sie das Optionsfenster an
+</Description>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1160</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1160</DownloadUrl>
+  <Descriptors>
+    <descriptor>Homeopatix\FishingHelper.plugin</descriptor>
+  </Descriptors>
+</PluginConfig>
